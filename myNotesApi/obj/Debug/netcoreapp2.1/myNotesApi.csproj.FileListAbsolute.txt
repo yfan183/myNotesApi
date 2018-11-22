@@ -1,0 +1,14 @@
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\bin\Debug\netcoreapp2.1\myNotesApi.deps.json
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\bin\Debug\netcoreapp2.1\myNotesApi.runtimeconfig.json
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\bin\Debug\netcoreapp2.1\myNotesApi.runtimeconfig.dev.json
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\bin\Debug\netcoreapp2.1\myNotesApi.dll
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\bin\Debug\netcoreapp2.1\myNotesApi.pdb
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.csprojAssemblyReference.cache
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.csproj.CoreCompileInputs.cache
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.RazorAssemblyInfo.cache
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.RazorAssemblyInfo.cs
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.AssemblyInfoInputs.cache
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.AssemblyInfo.cs
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.RazorTargetAssemblyInfo.cache
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.dll
+c:\users\ivan\Source\Repos\myNotesApi\myNotesApi\obj\Debug\netcoreapp2.1\myNotesApi.pdb
